@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Actinic Keratosis</folder>
+	<filename>Actinic keratosis (4).jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Actinic Keratosis\Actinic keratosis (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>798</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Actinic Keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>17</ymin>
+			<xmax>723</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

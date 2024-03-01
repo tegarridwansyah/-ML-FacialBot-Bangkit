@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Acne (Rachel)</folder>
+	<filename>acne cystic.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Acne (Rachel)\acne cystic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jerawat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>270</ymin>
+			<xmax>1188</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

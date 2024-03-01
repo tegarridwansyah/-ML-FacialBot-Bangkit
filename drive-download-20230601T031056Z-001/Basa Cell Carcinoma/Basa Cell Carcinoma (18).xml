@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basa Cell Carcinoma (Rachel)</folder>
+	<filename>Basa Cell Carcinoma (18).jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Basa Cell Carcinoma (Rachel)\Basa Cell Carcinoma (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Basa Cell Carcinoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>57</ymin>
+			<xmax>314</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

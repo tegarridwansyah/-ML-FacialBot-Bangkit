@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>market vendor kasım kafa2 vitiligo face v2.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\market vendor kasım kafa2 vitiligo face v2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>60</ymin>
+			<xmax>232</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

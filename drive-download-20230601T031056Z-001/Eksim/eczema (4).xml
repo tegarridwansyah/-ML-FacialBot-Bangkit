@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eczema - Eksim - Dermatitis (Rachel)</folder>
+	<filename>eczema (4).webp</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Eczema - Eksim - Dermatitis (Rachel)\eczema (4).webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eksim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>1524</ymin>
+			<xmax>2256</xmax>
+			<ymax>2576</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flek Hitam</folder>
+	<filename>flek-hitam-halodoc.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Flek Hitam\flek-hitam-halodoc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>643</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flek Hitam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>151</ymin>
+			<xmax>399</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

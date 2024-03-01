@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Garis Wajah dan Kerutan</folder>
+	<filename>image.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Garis Wajah dan Kerutan\image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1254</width>
+		<height>836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kerutan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>305</ymin>
+			<xmax>638</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kerutan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>463</ymin>
+			<xmax>1120</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+</annotation>

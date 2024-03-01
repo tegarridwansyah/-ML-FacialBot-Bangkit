@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>Vitiligo-affecting-the-skin-of-the-eyes-mouth-and-chin-body5.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\Vitiligo-affecting-the-skin-of-the-eyes-mouth-and-chin-body5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1155</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>123</ymin>
+			<xmax>773</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>331</ymin>
+			<xmax>730</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

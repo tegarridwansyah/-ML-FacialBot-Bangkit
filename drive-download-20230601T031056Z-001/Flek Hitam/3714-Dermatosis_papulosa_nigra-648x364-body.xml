@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flek Hitam</folder>
+	<filename>3714-Dermatosis_papulosa_nigra-648x364-body.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Flek Hitam\3714-Dermatosis_papulosa_nigra-648x364-body.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flek Hitam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>3</ymin>
+			<xmax>648</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

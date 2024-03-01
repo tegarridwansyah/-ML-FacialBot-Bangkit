@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flek Hitam</folder>
+	<filename>X_Perawatan_Wajah_untuk_Usir_Flek_Hitam-halodoc.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Flek Hitam\X_Perawatan_Wajah_untuk_Usir_Flek_Hitam-halodoc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>702</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flek Hitam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>49</ymin>
+			<xmax>674</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

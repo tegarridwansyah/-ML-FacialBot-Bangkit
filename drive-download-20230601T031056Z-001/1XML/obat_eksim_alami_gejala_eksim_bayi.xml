@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eczema - Eksim - Dermatitis (Rachel)</folder>
+	<filename>obat_eksim_alami_gejala_eksim_bayi.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Eczema - Eksim - Dermatitis (Rachel)\obat_eksim_alami_gejala_eksim_bayi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eksim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>160</ymin>
+			<xmax>546</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

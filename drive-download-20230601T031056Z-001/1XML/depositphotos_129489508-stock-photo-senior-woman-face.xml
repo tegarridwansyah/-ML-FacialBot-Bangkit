@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Garis Wajah dan Kerutan</folder>
+	<filename>depositphotos_129489508-stock-photo-senior-woman-face.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Garis Wajah dan Kerutan\depositphotos_129489508-stock-photo-senior-woman-face.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kerutan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>145</ymin>
+			<xmax>370</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kerutan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>1</ymin>
+			<xmax>478</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

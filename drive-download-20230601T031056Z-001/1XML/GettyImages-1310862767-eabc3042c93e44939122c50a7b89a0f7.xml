@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>GettyImages-1310862767-eabc3042c93e44939122c50a7b89a0f7.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\GettyImages-1310862767-eabc3042c93e44939122c50a7b89a0f7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>220</ymin>
+			<xmax>1447</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymin>11</ymin>
+			<xmax>1131</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>759</ymin>
+			<xmax>1347</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

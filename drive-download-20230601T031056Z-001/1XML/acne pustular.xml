@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Acne (Rachel)</folder>
+	<filename>acne pustular.png</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Acne (Rachel)\acne pustular.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jerawat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>4</ymin>
+			<xmax>500</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

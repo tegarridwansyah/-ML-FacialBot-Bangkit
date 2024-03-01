@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>breanne-rice-600-269fafea25684c82a526ec534f2b5bf6.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\breanne-rice-600-269fafea25684c82a526ec534f2b5bf6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>147</ymin>
+			<xmax>465</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>vitiligo 1.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\vitiligo 1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>10</ymin>
+			<xmax>490</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

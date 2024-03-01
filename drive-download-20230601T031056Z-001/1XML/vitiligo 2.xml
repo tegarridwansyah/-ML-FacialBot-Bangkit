@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vitiligo (Namun)</folder>
+	<filename>vitiligo 2.webp</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Vitiligo (Namun)\vitiligo 2.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>719</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>181</ymin>
+			<xmax>392</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

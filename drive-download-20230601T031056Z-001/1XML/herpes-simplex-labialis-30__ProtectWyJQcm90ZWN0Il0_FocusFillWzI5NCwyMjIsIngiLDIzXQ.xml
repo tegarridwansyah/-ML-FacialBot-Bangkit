@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Herpes (Numen)</folder>
+	<filename>herpes-simplex-labialis-30__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIzXQ.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Herpes (Numen)\herpes-simplex-labialis-30__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIzXQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Herpes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>47</ymin>
+			<xmax>255</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

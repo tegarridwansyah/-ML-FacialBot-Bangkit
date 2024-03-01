@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eczema - Eksim - Dermatitis (Rachel)</folder>
+	<filename>Eczema (5).jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Eczema - Eksim - Dermatitis (Rachel)\Eczema (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eksim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymin>1</ymin>
+			<xmax>1175</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

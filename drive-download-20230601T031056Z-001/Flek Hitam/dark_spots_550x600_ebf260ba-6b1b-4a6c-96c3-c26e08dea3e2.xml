@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flek Hitam</folder>
+	<filename>dark_spots_550x600_ebf260ba-6b1b-4a6c-96c3-c26e08dea3e2.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Flek Hitam\dark_spots_550x600_ebf260ba-6b1b-4a6c-96c3-c26e08dea3e2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flek Hitam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>73</ymin>
+			<xmax>552</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

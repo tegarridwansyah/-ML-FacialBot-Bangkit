@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Milia</folder>
+	<filename>21.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Milia\21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Milia</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>9</ymin>
+			<xmax>278</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

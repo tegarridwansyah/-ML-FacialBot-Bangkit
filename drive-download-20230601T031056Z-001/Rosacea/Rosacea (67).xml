@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rosacea (Numan)</folder>
+	<filename>Rosacea (67).jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Rosacea (Numan)\Rosacea (67).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rosacea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>21</ymin>
+			<xmax>220</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eczema - Eksim - Dermatitis (Rachel)</folder>
+	<filename>Obat_Eksim_Kering.jpg</filename>
+	<path>D:\Universitas Padjadjaran\Bangkit\Capstone\drive-download-20230601T031056Z-001\Eczema - Eksim - Dermatitis (Rachel)\Obat_Eksim_Kering.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eksim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>100</ymin>
+			<xmax>544</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>
