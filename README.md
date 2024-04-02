@@ -7,4 +7,6 @@ FacialBot is an application to detect skin diseases on the face, such as acne, e
 
 The machine learning model created has made good predictions of facial skin problems and problem area boxes and has achieved an **accuracy rate of up to 82%**.
 
-![alt text](https://github.com/tegarridwansyah/-ML-FacialBot-Bangkit/blob/main/drive-download-20230601T031056Z-001/app.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/tegarridwansyah/-ML-FacialBot-Bangkit/blob/main/drive-download-20230601T031056Z-001/app.jpg"> 
+</p>
